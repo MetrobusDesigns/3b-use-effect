@@ -8,7 +8,7 @@ function App() {
     <>
       <h1>3B - useEffect</h1>
       {/* <TextComponent /> */}
-      {/* <Counter /> */}
+      <Counter />
       {/* <Posts /> */}
       <SinglePost />
     </>
